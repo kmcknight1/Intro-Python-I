@@ -81,18 +81,18 @@ The suggested order for going through each of the directories is:
 [x] `bignum` -- Print some big numbers
 [x] `datatypes` -- Experiment with type conversion
 [x] `modules` -- Learn to import from modules
-[ ] `printing` -- Formatted print output
-[ ] `lists` -- Python's version of arrays
-[ ] `tuples` -- Immutable lists typically for heterogenous data
-[ ] `slices` -- Accessing parts of lists
-[ ] `comprehensions` -- List comprehensions
-[ ] `dictionaries` -- Dictionaries
-[ ] `functions` -- Functions
-[ ] `args` -- Arguments and Keyword Arguments
-[ ] `scopes` -- Global, Local, and Non-Local scope
-[ ] `file_io` -- Read and write from files
-[ ] `cal` -- Experiment with module imports and implement a text-based calendar
-[ ] `classes` -- Classes and objects
+[x] `printing` -- Formatted print output
+[x] `lists` -- Python's version of arrays
+[x] `tuples` -- Immutable lists typically for heterogenous data
+[x] `slices` -- Accessing parts of lists
+[x] `comprehensions` -- List comprehensions
+[x] `dictionaries` -- Dictionaries
+[x] `functions` -- Functions
+[x] `args` -- Arguments and Keyword Arguments
+[x] `scopes` -- Global, Local, and Non-Local scope
+[x] `file_io` -- Read and write from files
+[x] `cal` -- Experiment with module imports and implement a text-based calendar
+[x] `classes` -- Classes and objects
 
 ## Stretch Goals
 

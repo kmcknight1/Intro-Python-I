@@ -1,3 +1,6 @@
+import math
+import console
+console.clear()
 """
 Python tuples are sort of like lists, except they're immutable and
 are usually used to hold heterogenous data, as opposed to lists
@@ -14,8 +17,6 @@ automatically.
 """
 
 # Example:
-
-import math
 
 
 def dist(a, b):
