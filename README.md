@@ -77,22 +77,22 @@ obtained via exposure to other programming languages towards learning Python.
 
 The suggested order for going through each of the directories is:
 
-[x] `hello` -- Hello world
-[x] `bignum` -- Print some big numbers
-[x] `datatypes` -- Experiment with type conversion
-[x] `modules` -- Learn to import from modules
-[x] `printing` -- Formatted print output
-[x] `lists` -- Python's version of arrays
-[x] `tuples` -- Immutable lists typically for heterogenous data
-[x] `slices` -- Accessing parts of lists
-[x] `comprehensions` -- List comprehensions
-[x] `dictionaries` -- Dictionaries
-[x] `functions` -- Functions
-[x] `args` -- Arguments and Keyword Arguments
-[x] `scopes` -- Global, Local, and Non-Local scope
-[x] `file_io` -- Read and write from files
-[x] `cal` -- Experiment with module imports and implement a text-based calendar
-[x] `classes` -- Classes and objects
+- [x] `hello` -- Hello world
+- [x] `bignum` -- Print some big numbers
+- [x] `datatypes` -- Experiment with type conversion
+- [x] `modules` -- Learn to import from modules
+- [x] `printing` -- Formatted print output
+- [x] `lists` -- Python's version of arrays
+- [x] `tuples` -- Immutable lists typically for heterogenous data
+- [x] `slices` -- Accessing parts of lists
+- [x] `comprehensions` -- List comprehensions
+- [x] `dictionaries` -- Dictionaries
+- [x] `functions` -- Functions
+- [x] `args` -- Arguments and Keyword Arguments
+- [x] `scopes` -- Global, Local, and Non-Local scope
+- [x] `file_io` -- Read and write from files
+- [x] `cal` -- Experiment with module imports and implement a text-based calendar
+- [x] `classes` -- Classes and objects
 
 ## Stretch Goals
 
