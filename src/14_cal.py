@@ -1,6 +1,7 @@
 import sys
 import calendar
 from datetime import datetime
+from datetime import date
 import console
 console.clear()
 """
@@ -34,9 +35,11 @@ it should use today’s date to get the month and year.
 
 print(sys.argv)
 
-current_month = datetime.today().month
+today = date.today()
 
-current_year = datetime.today().year
+current_month = today.month
+
+current_year = today.year
 
 cal = calendar.Calendar()
 
@@ -46,7 +49,8 @@ def print_date(month=current_month, year=current_year):
         month = int(sys.argv[1])
     if len(sys.argv) == 3:
         year = int(sys.argv[2])
-    print(cal.monthdatescalendar(year, month))
+    print(calendar.month(year, month))
 
 
 print_date()
+
